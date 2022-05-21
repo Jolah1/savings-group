@@ -11,10 +11,14 @@ const tierOne = () => {
   return(
 <div>
   <h1>Group Savings Web Application</h1>
+
+<h3>Tier 1</h3>
+<h3>Tier 2</h3>
+<h3>Tier 3</h3>
   <button onClick>7% Intrest per week</button>
   <button onClick>12% Intrest per week</button>
-  <button onClick>25% Intrest per week</button>
-
+  <button onClick>25% Intrest per week</button> <br />
+<button>TOTAL MONEY SAVED</button>
 </div>
 
 
