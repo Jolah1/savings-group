@@ -21,7 +21,6 @@ const tierOne = () => {
 <button>TOTAL MONEY SAVED</button>
 </div>
 
-
   );
 }
 
